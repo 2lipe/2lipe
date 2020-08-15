@@ -13,6 +13,8 @@ I'm currently into Web Development.
 
 You can see more in my repos.
 
+### You find me in
+
 [![](https://img.shields.io/badge/LinkedIn-FelipeVieira-blue)](https://www.linkedin.com/in/felipesvfx/)
 [![](https://img.shields.io/badge/Gmail-felipe.svfx%40gmail.com-red)](mailto:felipe.svfx@gmail.com)
 
