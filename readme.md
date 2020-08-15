@@ -9,7 +9,7 @@ You can see more in my repos.
 <i>You find me in</i><br>
 
 <a href="https://www.linkedin.com/in/felipesvfx/" target="_blank">
-  <img src="svg/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
+  <img src="svg/social/linkedin.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
 </a> 
 
 </div>
@@ -25,7 +25,7 @@ You can see more in my repos.
 </a>
 
 <a href="#">
-  <img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
+  <img src="js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
 </a>
 
 <a href="#">
