@@ -4,6 +4,9 @@ I'm a student of systems analysis and development, learning about frontend
 and their frameworks, specializing in JavaScript, TypeScript, React and more...
 You can see more in my repos.
 
+[![](https://img.shields.io/badge/LinkedIn-FelipeV-blue)](https://www.linkedin.com/in/felipesvfx/)
+[![](https://img.shields.io/badge/Gmail-FelipeV010%40gmail.com-red)](mailto:felipe.svfx@gmail.com)
+
 <div align="center">
 
 </div>
