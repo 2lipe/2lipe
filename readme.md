@@ -3,7 +3,7 @@
 I'm a student of systems analysis and development, learning about frontend and their frameworks, specializing in JavaScript,
 TypeScript, React and more. I love to explore new technologies and
 leverage them to solve real-life problems.
-Currently web and mobile developer at Udna HealthTech.
+Currently Jr developer at MedSênior.
 
 ### More about me
 
