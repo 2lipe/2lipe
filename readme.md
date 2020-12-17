@@ -27,6 +27,8 @@ You can see more in my repos.
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=2lipe&hide=Batchfile" />
 </a>
 
+![Felipe Vieira](https://github-readme-stats.vercel.app/api?username=2lipe&count_private=true)
+
 <br />
 <br />
 <div align="center">
