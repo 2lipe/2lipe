@@ -7,9 +7,9 @@ Currently Jr developer at MedSênior.
 
 ### More about me
 
-- 🚀 I’m currently working on React Native, React, Asp.Net Core, SQL Server...
-- 🔭 I’m currently learning Software Development.
-- 💻 I have knowledge on HTML/CSS, Javascript, TypeScript, React, Nodejs, Expressjs, MongoDB, MariaDB, Git, etc.
+- 🚀  I’m currently working on React Native, React, Asp.Net Core, SQL Server...
+- 🔭  I’m currently learning Software Development.
+- 💻  I have knowledge on HTML/CSS, Javascript, TypeScript, React, Nodejs, Expressjs, MongoDB, MariaDB, Git, etc.
 
 You can see more in my repos.
 
