@@ -1,15 +1,15 @@
 ### Hi there, I'm [Felipe Vieira!](https://www.linkedin.com/in/felipesvfx/) 👋
 
-I'm a student of systems analysis and development, learning about frontend and their frameworks, specializing in JavaScript,
+I'm a student of systems analysis and development, learning about Software Development, specializing in JavaScript,
 TypeScript, React and more. I love to explore new technologies and
 leverage them to solve real-life problems.
-Currently Jr developer at MedSênior.
+Currently developer at MedSênior.
 
 ### More about me
 
-- 🚀  I’m currently working on React Native, React, Asp.Net Core, SQL Server...
-- 🔭  I’m currently learning Software Development.
-- 💻  I have knowledge on HTML/CSS, Javascript, TypeScript, React, Nodejs, Expressjs, MongoDB, MariaDB, Git, etc.
+- 🚀  I’m currently working on React Native, React, .Net Core, SQL Server, Azure...
+- 🔭  I’m currently learning more about Devops, CI/CD, Docker, Kubernets, DDD, SOLID...
+- 💻  I have knowledge on HTML/CSS, Javascript, TypeScript, React, React Native, Nodejs, Expressjs, .NET, SQL Server, MongoDB, MariaDB, Docker, Git, Gitflow, etc.
 
 You can see more in my repos.
 
