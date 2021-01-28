@@ -17,6 +17,7 @@ You can see more in my repos.
 
 [![](https://img.shields.io/badge/LinkedIn-FelipeVieira-blue)](https://www.linkedin.com/in/felipesvfx/)
 [![](https://img.shields.io/badge/Gmail-felipe.svfx%40gmail.com-red)](mailto:felipe.svfx@gmail.com)
+[![](https://img.shields.io/badge/Website-felipe.svfx%40gmail.com-orange)](https://2lipe.netlify.app/)
 
 <div align="center">
 
