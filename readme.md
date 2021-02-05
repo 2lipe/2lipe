@@ -31,6 +31,6 @@ You can see more in my repos.
 <br />
 <div align="center">
 
-[![HitCount](http://hits.dwyl.com/2lipe/2lipe.svg)](http://hits.dwyl.com/2lipe/2lipe)
+[![HitCount](http://hits.dwyl.com/2lipe/portfolio.svg)](http://hits.dwyl.com/2lipe/portfolio)
 
 </div>
