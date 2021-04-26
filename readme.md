@@ -7,9 +7,9 @@ Currently developer at MedSênior.
 
 ### More about me
 
-- 🚀  I’m currently working on React Native, React, .Net Core, SQL Server, Azure...
+- 🚀  I’m currently working on React Native, React, .Net Core, Node with NestJS, SQL Server, Azure...
 - 🔭  I’m currently learning more about Devops, CI/CD, Docker, Kubernets, DDD, SOLID...
-- 💻  I have knowledge on HTML/CSS, Javascript, TypeScript, React, React Native, Nodejs, Expressjs, .NET, SQL Server, MongoDB, MariaDB, Docker, Git, Gitflow, etc.
+- 💻  I have knowledge on HTML/CSS, C#, Javascript, TypeScript, React, React Native, Nodejs, Expressjs, NestJS, .NET, SQL Server, MongoDB, Postgres, MySQL, MSSQL, Docker, Git, Gitflow, etc.
 
 You can see more in my repos.
 
