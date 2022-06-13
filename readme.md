@@ -1,13 +1,13 @@
 ### Hi there, I'm [Felipe Vieira!](https://www.linkedin.com/in/felipesvfx/) 👋
 
-I'm a student of systems analysis and development, learning about Software Development, specializing in JavaScript,
+I'm a student of systems analysis and development, learning about Software Development, specializing in C#, .Net,
 TypeScript, React and more. I love to explore new technologies and
 leverage them to solve real-life problems.
-Currently developer at MedSênior.
+Currently Software Engineer at @Itau.
 
 ### More about me
 
-- 🚀  I’m currently working on React Native, React, .Net Core, Node with NestJS, SQL Server, Azure...
+- 🚀  I’m currently working on .Net Core, SQL Server, AWS, Azure...
 - 🔭  I’m currently learning more about Devops, CI/CD, Docker, Kubernets, DDD, SOLID...
 - 💻  I have knowledge on HTML/CSS, C#, Javascript, TypeScript, React, React Native, Nodejs, Expressjs, NestJS, .NET, SQL Server, MongoDB, Postgres, MySQL, MSSQL, Docker, Git, Gitflow, etc.
 
